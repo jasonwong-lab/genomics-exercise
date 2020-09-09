@@ -10,6 +10,6 @@ Provided are two files, (1) WGS_mutations.bed, is a list of somatic mutations fr
 6. What type of DNA repair defect is this cancer likely to have based on the difference in mutation rate of the early and late replicating regions? (You will probably need to do literature search)
 7. Bonus: What cancer type is this sample from?
 
-_Hints: The BED format is used to store information about regions in genomes. Column 1 is the chromosome, column 2 is the start position and column 3 is the end position of a region. Additional columns provide information about each region. For questions 4 and 5, you will need to use BedTools. The [BedTools tutorial] (http://quinlanlab.org/tutorials/bedtools/bedtools.html) provides all information necessary to use bedtools to get the answer for 4 and 5._
+_Hints: The BED format is used to store information about regions in genomes. Column 1 is the chromosome, column 2 is the start position and column 3 is the end position of a region. Additional columns provide information about each region. For questions 4 and 5, you will need to use BedTools. The [BedTools tutorial](http://quinlanlab.org/tutorials/bedtools/bedtools.html) provides all information necessary to use bedtools to get the answer for 4 and 5._
 
 
